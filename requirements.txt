@@ -1,0 +1,10 @@
+ipython
+jupyter
+numpy
+beautifulsoup4
+scikit-learn
+transformers
+sentence-transformers
+setfit
+nltk
+pandas
