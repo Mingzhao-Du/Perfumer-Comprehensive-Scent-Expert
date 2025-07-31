@@ -2,6 +2,8 @@
 
 Perfumer is a rule-based NLP chatbot that simulates a knowledgeable and engaging perfume consultant. It recommends fragrances based on scent preferences or zodiac signs, responds empathetically to user emotions using sentiment analysis, and shares perfume-related trivia and lighthearted jokes. Designed with clean code principles and modular architecture, this project showcases a practical application of natural language processing techniques.
 
+## Link to project video recording: https://mega.nz/file/n64WgAJR#KBgNmEutJIBvql4gEtxhrqotXZtE0B5QI_rtSVvn8Zc
+
 ## Features
 
 **Scent-based Recommendations**: Recommends perfumes by matching user input against a curated scent keyword dictionary.
