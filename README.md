@@ -35,7 +35,7 @@ nltk.download('vader_lexicon')
 1. Clone the repository and enter the directory:
 
 ```bash
-git clone https://git.arts.ac.uk/24004238/Data-Science-in-the-Creative-Industries_Project_MingzhaoDu
+git clone https://github.com/Mingzhao-Du/Perfumer-Comprehensive-Scent-Expert
 cd perfumer-chatbot
 ```
 
