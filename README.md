@@ -1,6 +1,6 @@
 # Perfumer — Comprehensive Scent Expert
 
-This project implements a rule-based chatbot that simulates a personalized perfume consultant. The chatbot recommends perfumes based on scent preferences or zodiac signs, responds to user moods using sentiment analysis, and offers brand knowledge, jokes, and conversational support. Based on insights from a university NLP course, this project has been enhanced with clean code principles, modular design, documentation, and testing.
+Perfumer is a rule-based NLP chatbot that simulates a knowledgeable and engaging perfume consultant. It recommends fragrances based on scent preferences or zodiac signs, responds empathetically to user emotions using sentiment analysis, and shares perfume-related trivia and lighthearted jokes. Designed with clean code principles and modular architecture, this project showcases a practical application of natural language processing techniques.
 
 ## Features
 
